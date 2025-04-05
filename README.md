@@ -41,10 +41,10 @@ The application provides a simple graphical user interface (GUI) with a top bar 
 
 ### Application Running
 **First View**
-![App View 1](Screenshots/Screenshot_app1.png)
+![App View 1](Screenshots/Screenshot_app2.png)
 
 **Second View / Background Color Change**
-![App View 2](Screenshots/Screenshot_app2.png)
+![App View 2](Screenshots/Screenshot_app1.png)
 
 ### GitHub Repository
 ![GitHub Repo](Screenshots/Screenshot_Repo.png)
