@@ -37,18 +37,18 @@ The application provides a simple graphical user interface (GUI) with a top bar 
 ## Screenshots
 
 ### Python Source Code (VS Code)
-![Source Code](screenshots/Screenshot_SourceCode.png)
+![Source Code](Screenshots/Screenshot_SourceCode.png)
 
 ### Application Running
 **First View**
-![App View 1](screenshots/Screenshot_app1.png)
+![App View 1](Screenshots/Screenshot_app1.png)
 
 **Second View / Background Color Change**
-![App View 2](screenshots/Screenshot_app2.png)
+![App View 2](Screenshots/Screenshot_app2.png)
 
 ### GitHub Repository
-![GitHub Repo](screenshots/Screenshot_Repo.png)
+![GitHub Repo](Screenshots/Screenshot_Repo.png)
 
 ### Saved Log File Output
-![Saved Log](screenshots/Screenshot_SavedLog.png)
+![Saved Log](Screenshots/Screenshot_SavedLog.png)
 
