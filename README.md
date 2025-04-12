@@ -25,15 +25,16 @@ This JavaFX application includes a menu with interactive features for displaying
 ### Change to Random Green Background + Save to Log
 
 ![Green Background](Screenshots/GreenBG.png)
+
+## Screenshot of Log Saved
 ![Saved Log](Screenshots/SavedLog.png)
 
 ## GitHub Repository
-
-*(Add your GitHub screenshot here once uploaded)*
+![GitHub_Repo](Screenshots/GitHubRepo.png)
 
 ---
 
-## ⚙Requirements
+## Requirements
 
 - Java 17+
 - JavaFX SDK 24
