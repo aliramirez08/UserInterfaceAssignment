@@ -1,54 +1,46 @@
-# User Interface I Assignment
+# JavaFX User Interface Assignment
 
-The application provides a simple graphical user interface (GUI) with a top bar menu that performs various actions based on user selection.
+This JavaFX application includes a menu with interactive features for displaying the current date and time, saving logs, changing background color, and exiting the app.
 
-## Features
+## 💻 Java Source Code
 
-- **Display Date and Time**  
-  Prints the current date and time into the text area.
+![SourceCode1](Screenshots/SourceCode1.png)
+![SourceCode2](Screenshots/SourceCode2.png)
+![SourceCode3](Screenshots/SourceCode3.png)
 
-- **Save to File**  
-  Saves the contents of the text area to `log.txt`.
+## ▶️ Running the App
 
-- **Random Green Hue Background**  
-  Changes the window background to a random shade of green and logs the hex color used.
+![RunApp](Screenshots/RunApp.png)
 
-- **Exit**  
-  Closes the application.
+## 📂 Application Features
 
-## Technologies Used
+### Menu Options
 
-- Python 3.10.11  
-- `tkinter` (built-in GUI module for Python)
+![MenuOptions](Screenshots/MenuOptions.png)
 
-## How to Run
+### Show Date and Time
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/aliramirez08/UserInterfaceAssignment.git
-   cd UserInterfaceAssignment
+![DateTime](Screenshots/DateTime.png)
 
-2. Make sure you are using Python 3.10.11 (or later with Tkinter support)
+### Change to Random Green Background + Save to Log
 
-3. Run the application:
-    ```bash
-    python3 user_interface.py
+![Green Background](Screenshots/GreenBG.png)
+![Saved Log](Screenshots/SavedLog.png)
 
-## Screenshots
+## 🌐 GitHub Repository
 
-### Python Source Code (VS Code)
-![Source Code](Screenshots/Screenshot_SourceCode.png)
+*(Add your GitHub screenshot here once uploaded)*
 
-### Application Running
-**First View**
-![App View 1](Screenshots/Screenshot_app2.png)
+---
 
-**Second View / Background Color Change**
-![App View 2](Screenshots/Screenshot_app1.png)
+## ⚙️ Requirements
 
-### GitHub Repository
-![GitHub Repo](Screenshots/Screenshot_Repo.png)
+- Java 17+
+- JavaFX SDK 24
 
-### Saved Log File Output
-![Saved Log](Screenshots/Screenshot_SavedLog.png)
+## 🔧 How to Compile and Run
 
+```bash
+javac --module-path /path/to/javafx-sdk-24/lib --add-modules javafx.controls -d out src/UserInterfaceI.java
+java --module-path /path/to/javafx-sdk-24/lib --add-modules javafx.controls -cp out UserInterfaceI
+- Replace /path/to/javafx-sdk-24/lib with the correct path on your system.

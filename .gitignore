@@ -1,2 +1,12 @@
+# Compiled class files
 /out/
 *.class
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
