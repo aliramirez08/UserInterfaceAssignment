@@ -1,12 +1,2 @@
-# Ignore VS Code settings
-.vscode/
-
-# Ignore Python version manager files
-.python-version
-
-# Ignore log files
-log.txt
-
-# Ignore Python compiled files
-__pycache__/
-*.py[cod]
+/out/
+*.class
