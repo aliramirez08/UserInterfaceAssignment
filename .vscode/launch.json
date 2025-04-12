@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      
+      {
+        "type": "java",
+        "name": "Launch JavaFX App",
+        "request": "launch",
+        "mainClass": "UserInterfaceI",
+        "classPaths": ["out"],
+        "vmArgs": "--module-path /Users/Alicia/javafx-sdk-24/lib --add-modules javafx.controls"
+      }
+    ]
+  }
+  
